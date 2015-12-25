@@ -1,0 +1,3 @@
+## To test ##
+
+`mvn test`
